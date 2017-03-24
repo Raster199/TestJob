@@ -11,9 +11,6 @@ import javax.servlet.http.HttpServletResponse;
 import java.io.IOException;
 import java.io.PrintWriter;
 
-/**
- * Created by raster on 16.03.17.
- */
 
 @WebServlet("/")
 public class MainServlet extends HttpServlet {
